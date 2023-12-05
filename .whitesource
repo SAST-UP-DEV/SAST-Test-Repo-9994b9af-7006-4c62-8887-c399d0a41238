@@ -29,7 +29,7 @@
     "enableRemediation": false,
     "incrementalScan": true,
     "configExternalURL": "https://json.extendsclass.com/bin/343756050c7e",
-    "snippetSize": 0,
+    "snippetSize": 1,
     "baseBranches": []
   }
 }
